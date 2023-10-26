@@ -1,0 +1,30 @@
+_repo: The-gunsmith-s-manual-b-A-complete-handbook-for-the-American-gunsmith-being-a-practical-guide__71928
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Harrison, Wm. B.
+    gutenberg_agent_id: '56461'
+    url: http://www.gutenberg.org/2009/agents/56461
+  - agent_name: Stelle, J. P.
+    gutenberg_agent_id: '56460'
+    url: http://www.gutenberg.org/2009/agents/56460
+description: ''
+gutenberg_issued: '2023-10-21'
+identifiers:
+  gutenberg: '71928'
+language: en
+pgterms:marc904: https://archive.org/details/gunsmithsmanualc00stel
+pgterms:marc905: 20210904104449stelle
+pgterms:marc906: '1883'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bJesse Haney & Co, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The gunsmith''s manual : $b A complete handbook for the American gunsmith,
+  being a practical guide to all branches of the trade'
+url: http://www.gutenberg.org/ebooks/71928
