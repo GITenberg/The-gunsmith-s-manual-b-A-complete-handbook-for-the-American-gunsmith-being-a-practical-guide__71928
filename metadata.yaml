@@ -1,5 +1,8 @@
 _repo: The-gunsmith-s-manual-b-A-complete-handbook-for-the-American-gunsmith-being-a-practical-guide__71928
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71928-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Harrison, Wm. B.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56460'
     url: http://www.gutenberg.org/2009/agents/56460
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71928#The-gunsmith-s-manual-b-A-complete-handbook-for-the-American-gunsmith-being-a-practical-guide_
 gutenberg_issued: '2023-10-21'
 identifiers:
   gutenberg: '71928'
